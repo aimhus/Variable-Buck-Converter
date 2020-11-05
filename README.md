@@ -14,7 +14,8 @@ Here are some commonly desired output voltages and the corresponding potentiomet
 | --- | --- |
 | 9 V | 19 kΩ|
 | 5 V | 9.2 kΩ |
-| 3.3 V | 5.1 kΩ|        
+| 3.3 V | 5.1 kΩ|  
+      
 <br></br>
 
 ## Schematics
